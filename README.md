@@ -1,5 +1,8 @@
 1_Neurona
 =========
+1 Proyecto de Inteligencia Artificial II
+----------------------------------------
+
 EL proyecto consistio en 3 partes.
 
 1- Implementacion de un Perceptron
@@ -17,8 +20,9 @@ Sintaxys de Llamada
 
 - Windows >> Dentro de las Carpetas del codigo hay un bash.cmd que ejecuta las pruebas automaticamente
 
-
-
-
 Integrantes
 ------------
+	Jesus Torres
+	Tony Lattke
+	Isaac Lopez
+	Gabriel Casique
